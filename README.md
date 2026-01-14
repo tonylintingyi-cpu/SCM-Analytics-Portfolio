@@ -2,6 +2,9 @@
 ## Executive Summary
 ### Business Context
 ## Methodology
+### Skills
+SQL
+
 ## Risk Exposure & Supply Chain Resilience
 ## Business Recommendation
 

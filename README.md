@@ -2,8 +2,10 @@
 ## Executive Summary
 ### Business Context
 ## Methodology
-### Skills
-SQL
+### Tech Stack
+/SQL
+/Data
+/Tableau
 
 ## Risk Exposure & Supply Chain Resilience
 ## Business Recommendation
